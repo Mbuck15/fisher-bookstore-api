@@ -1,0 +1,10 @@
+C:\Users\Mason\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.deps.json
+C:\Users\Mason\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.runtimeconfig.json
+C:\Users\Mason\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.runtimeconfig.dev.json
+C:\Users\Mason\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.dll
+C:\Users\Mason\Fisher.Bookstore.Api\bin\Debug\netcoreapp2.0\Fisher.Bookstore.Api.pdb
+C:\Users\Mason\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mason\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.AssemblyInfoInputs.cache
+C:\Users\Mason\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.AssemblyInfo.cs
+C:\Users\Mason\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.dll
+C:\Users\Mason\Fisher.Bookstore.Api\obj\Debug\netcoreapp2.0\Fisher.Bookstore.Api.pdb
