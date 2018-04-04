@@ -1,7 +1,9 @@
 ﻿using System;
+using Fisher.Bookstore.Api.Data;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Fisher.Bookstore.Api.Data;
 using Fisher.Bookstore.Api.Models;
 using Microsoft.AspNetCore.Mvc;
 
@@ -11,7 +13,6 @@ namespace Fisher.Bookstore.Api.Controllers
     public class BooksController : Controller
     {
         private readonly BookstoreContext db;
-
         public BooksController(BookstoreContext db)
         {
             this.db = db;
