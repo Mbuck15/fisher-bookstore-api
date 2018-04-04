@@ -12,7 +12,6 @@ using Microsoft.EntityFrameworkCore;
 using Fisher.Bookstore.Api.Models;
 using Fisher.Bookstore.Api.Data;
 
-using Fisher.Bookstore.Api.Data;
 
 namespace Fisher.Bookstore.Api
 {
